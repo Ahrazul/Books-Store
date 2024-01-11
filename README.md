@@ -14,28 +14,13 @@ Welcome to the BookStore MERN project repository! This application is a full-sta
 
 ## Installation
 
-To get this project up and running on your local machine, follow these steps:
+To get this project up and running on your local machine, do this:
 
-1. **Clone the Repository**
+1. **Open up Git Bash on your machine**
+
+2. **Clone the Repository**
    
    ```bash
    git clone https://github.com/Ahrazul/book-store-database.git
-   cd book-store-database
-
-2. **Install Dependencies**
-   
-   ```bash
-   npm install
-
-3. **Set Up Environment Variables**
-   
-   ```bash
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
-
-4. **Run the Application**
-   
-   ```bash
-   npm run dev
 
 
