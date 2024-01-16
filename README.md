@@ -1,8 +1,8 @@
-# BookStore MERN Project
+# Reader's Realm - A bookstore organization MERN Project
 
 ## Introduction
 
-Welcome to the BookStore MERN project repository! This application is a full-stack web solution for managing a bookstore online. Built with MongoDB, Express.js, React.js, and Node.js (MERN), it provides a seamless and interactive experience for users looking to browse, review, and purchase books.
+Welcome to the Reader's Realm repository! This application is a full-stack web solution for managing a bookstore online. Built with MongoDB, Express.js, React.js, and Node.js (MERN), it provides a seamless and interactive experience for users looking to browse, review, and purchase books.
 
 ## Features
 
